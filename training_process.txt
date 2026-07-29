@@ -1,0 +1,12 @@
+Notebook chứa quá trình train của baseline model
+https://www.kaggle.com/code/exusiaiap/revamp-vqa
+
+Notebook chứa quá trình train của CME model
+https://www.kaggle.com/code/exusiaiap/morizz
+
+Notebook chứa quá trình train của simple concat model
+https://www.kaggle.com/code/kristiko/simplevqa
+
+Notebook chứa kết quả của cả 3 model:
+https://www.kaggle.com/code/kristiko/re-vqa
+https://colab.research.google.com/drive/1oAh_-15DI-0gYDcluAcooF9EamUh4QQT?usp=sharing
